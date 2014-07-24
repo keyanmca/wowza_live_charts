@@ -1,0 +1,29 @@
+
+#main {width: 800px; align: center;}
+
+#player {
+		
+		}
+#player1{
+		float:left;
+		width: 340px;
+		padding: 10px;
+		margin: auto;
+	}
+
+	#player2{
+		float:right;
+		width: 340px;
+		margin: auto;
+		padding: 10px;
+	}
+	
+		#player3{
+		float:center;
+		width: 340px;
+		margin: auto;
+		padding: 10px;
+	}
+
+	
+.clr {clear: both; height: 0px; margin: 0px; padding: 0px;}
